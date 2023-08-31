@@ -29,6 +29,16 @@
     height: 1px;
 }
 
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 10%;
+    border: 1px solid black;
+}
+
 #footer {
     background-color: #9BA4B5;
 }
